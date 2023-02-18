@@ -20,6 +20,7 @@ function App() {
     setalert({
       msg: messsage,
       type: type
+    
     })
 
     setTimeout(() => {
